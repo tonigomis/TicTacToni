@@ -1,0 +1,78 @@
+<!doctype html>
+<!-- Manifest declaration & context menu block-->
+<html lang="ca" manifest="tictactoe.appcache" ondragstart="return false" oncontextmenu="return false">
+	<head>
+		<title>Tres en Ratlla</title>
+		
+		<!-- Begin meta -->
+		<meta charset="UTF-8" />
+		<meta name="description" content="Juga al clàssic joc de Tres en Ratlla (Tic Tac Toe en anglès)">
+		<meta name="keywords" content="play, Tic Tac Toe, jugar, Tres en Raya, Tres en Ratlla">
+		<meta name="author" content="Toni Gomis Juan">
+		<meta name="robots" content="Index,Follow">
+		<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+		<meta name="google" content="nositelinkssearchbox">
+		<meta name="revisit-after" content="30 days">
+		<!-- End meta -->
+
+		<!-- Begin CSS -->
+		<link rel="stylesheet" type="text/css" href="estils.css" />
+		<!-- End CSS -->
+		
+		<!-- Begin Links -->
+		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+		<!-- End Links -->
+	</head>
+	<body>
+		<!-- Banner -->
+		<header>
+			<h1><img src="header.gif" alt="Tic Tac Toni" height="80"></h1>
+		</header>
+		<nav id="navegacio">
+
+			<!-- Begin nav buttons -->
+			<ul id="menu">
+				<li><a href="index.html">Joc</a></li>
+				<li><a href="ajuda.html">Ajuda</a></li>
+				<li><a href="mapa.html">Mapa</a></li>
+				<li><a href="#">Contacte</a></li>
+				<li><a href="opcions.html">Opcions</a></li>
+				<li><a href="http://tgomisdaw.esy.es/blog/">Blog</a></li>
+			</ul>
+			<!-- End nav buttons -->
+		</nav>
+
+		<!-- Main content -->
+		<main>
+			<h2>Contacta</h2>
+
+			<!-- Contact form -->
+			<form method="post" enctype="multipart/form-data" action="404.html" id="form1">
+				<select name="tractament" autofocus="autofocus" tabindex="1">
+					<optgroup label="Tractament">
+						<option value="none">-</option>
+						<option value="sr">Sr.</option>
+						<option value="sra">Sra.</option>
+						<option value="srta">Srta.</option>
+					</optgroup>
+				</select>	
+				Nom
+				<input type="text" name="nom" autocomplete="off" required="required" tabindex="2">
+				<br>
+				Email
+				<input type="email" name="email" autocomplete="off" required="required" placeholder="Introduïu el vostre correu" tabindex="3">
+				<br>
+				Url
+				<input type="url" name="url" placeholder="Escriviu una URL vàlida" tabindex="4">
+				<br>
+				<textarea placeholder="Escriviu el vostre missatge... (Màxim: 500 caràcters)" required="required" rows="6" cols="50" maxlength="500" wrap="hard" tabindex="5"></textarea>
+				<input type="submit" value="Envia!" tabindex="6">
+			</form>
+		</main>
+
+		<footer>
+			<section id="noms"><h6>Tres en Ratlla. Toni Gomis <span class="copy-left" title="Copyleft">©</span>. 2016</h6></section>
+			<section id="contacte"><address>Contacte: <a href="mailto:tgomis@gmail.com" id="mail">Escriu-me!</a></address></section>
+		</footer>
+	</body>
+</html>

@@ -1,0 +1,575 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"col",
+				"background-color"
+			],
+			[
+				"m",
+				"max-height"
+			],
+			[
+				"h",
+				"max-height"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"colo",
+				"background-color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bord",
+				"border-left"
+			],
+			[
+				"i",
+				"iframe	Tag"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"p",
+				"px"
+			],
+			[
+				"c",
+				"canvas"
+			],
+			[
+				"ca",
+				"canvas	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1471,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ajuda.html",
+			"settings":
+			{
+				"buffer_size": 3287,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mapa.html",
+			"settings":
+			{
+				"buffer_size": 1660,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "contacte.html",
+			"settings":
+			{
+				"buffer_size": 1325,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "opcions.html",
+			"settings":
+			{
+				"buffer_size": 1306,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "404.html",
+			"settings":
+			{
+				"buffer_size": 843,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "estils.css",
+			"settings":
+			{
+				"buffer_size": 479,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tictactoe.appcache",
+			"settings":
+			{
+				"buffer_size": 128,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 96.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"Snippet:",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/toni/Escriptori/CFGS_DAW/Llenguatge de marques/Practiques/examen pràctic/examen.css",
+		"/home/toni/Escriptori/CFGS_DAW/Llenguatge de marques/Practiques/examen pràctic/index.html",
+		"/home/toni/Escriptori/CFGS_DAW/Llenguatge de marques/Practiques/cssprova.css",
+		"/home/toni/Escriptori/CFGS_DAW/Llenguatge de marques/Practiques/prova1.html",
+		"/home/toni/Escriptori/CFGS_DAW/Llenguatge de marques/Practiques/examen pràctic/img/body.gif",
+		"/home/toni/Escriptori/CFGS_DAW/Llenguatge de marques/Practiques/Practica TicTacToe/ticTac/joc.html",
+		"/home/toni/Escriptori/CFGS_DAW/Llenguatge de marques/Practiques/Practica TicTacToe/ticTac/tictoe.html",
+		"/home/toni/Escriptori/CFGS_DAW/Llenguatge de marques/Practiques/examen praÌctic/index.html",
+		"/home/toni/Escriptori/CFGS_DAW/Llenguatge de marques/Practiques/CSS/x.html",
+		"/home/toni/Escriptori/CFGS_DAW/Llenguatge de marques/Practiques/CSS/estil.css",
+		"/home/toni/Escriptori/CFGS_DAW/Llenguatge de marques/Practiques/Examen HTML/examen_html_toni_gomis.html",
+		"/home/toni/Escriptori/CFGS_DAW/Llenguatge de marques/Practiques/psicomanacor.html",
+		"/home/toni/Escriptori/CFGS_DAW/Llenguatge de marques/Practiques/Practica TicTacToe/3inaRow.html",
+		"/home/toni/Escriptori/prova.html",
+		"/home/toni/Escriptori/CFGS_DAW/Llenguatge de marques/Practiques/Practica TicTacToe/ticTac/ticTac.html",
+		"/home/toni/Escriptori/CFGS_DAW/Llenguatge de marques/Practiques/Practica TicTacToe/ticTac.html",
+		"/home/toni/Escriptori/CFGS_DAW/Llenguatge de marques/Practiques/Practica TicTacToe/ticTac/estils.css",
+		"/home/toni/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings",
+		"/home/toni/.config/sublime-text-2/Packages/User/HTML (Tcl).sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"Blau",
+			"><",
+			"	<"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ajuda.html",
+					"settings":
+					{
+						"buffer_size": 3287,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "mapa.html",
+					"settings":
+					{
+						"buffer_size": 1660,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "contacte.html",
+					"settings":
+					{
+						"buffer_size": 1325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "opcions.html",
+					"settings":
+					{
+						"buffer_size": 1306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "404.html",
+					"settings":
+					{
+						"buffer_size": 843,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "estils.css",
+					"settings":
+					{
+						"buffer_size": 479,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								442,
+								442
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "tictactoe.appcache",
+					"settings":
+					{
+						"buffer_size": 128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

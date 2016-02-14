@@ -1,0 +1,125 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	width: 100%;
+	text-align: center;
+	background-color: #EF8B1C;
+	font-family: Arial;
+	font-size: 14pt;
+}
+
+canvas {
+	background: #A0A0A0;
+}
+
+footer {
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	background: #333;
+}
+
+h6, address {
+	color: white;
+}
+
+p {
+	text-indent: 1em;
+	line-height: 1.5;
+}
+
+h2 {
+	color: #FFF;
+	max-width: 300px;
+	margin: 10px auto;
+	line-height: 1.5;
+}
+
+h3#titolAjuda {
+	color: #FFF;
+	margin: 0 auto;
+}
+
+nav {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+ul#menu li {
+	display: inline;
+}
+
+ul#menu li a {
+	background-color: black;
+	color: white;
+	padding: 10px 20px;
+	text-decoration: none;
+	font-size: 16pt;
+	border-radius: 8px;
+}
+
+ul#menu li a:hover {
+	background-color: orange;
+	color: #000;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+iframe {
+
+}
+
+#mail {
+	color: white;
+}
+div {
+	width: 100%;
+	margin: 0 auto;
+	float: left;
+}
+
+div#prova {
+	margin: 0 auto;
+}
+
+div#textAjuda {
+	max-width: 25%;
+	border-radius: 25px;
+
+	background-color: #A0A0A0;
+	text-align: justify;
+	width: 500px;
+	padding: 10px 30px;
+	margin: 0 20px;
+}
+
+#noms {
+	font-size: 16pt;
+}
+
+#contacte {
+	font-family: Verdana;
+	font-size: 12pt;
+
+}
+
+.copy-left {
+ display: inline-block;
+ text-align: right;
+ margin: 0px;
+ -moz-transform: scaleX(-1);
+ -o-transform: scaleX(-1);
+ -webkit-transform: scaleX(-1);
+ transform: scaleX(-1);
+ filter: FlipH;
+ -ms-filter: "FlipH";
+ }

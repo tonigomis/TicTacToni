@@ -1,0 +1,15 @@
+CACHE MANIFEST
+#2016-02-07:v2
+
+CACHE:
+#index.html
+#ajuda.html
+#mapa.html
+#contacte.html
+#opcions.html
+
+NETWORK:
+*
+
+FALLBACK:
+404.html

@@ -1,0 +1,143 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	text-align: center;
+	background-color: #EF8B1C;
+	font-family: Arial;
+	font-size: 14pt;
+}
+
+canvas {
+	background: #A0A0A0;
+}
+
+footer {
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	background: #333;
+}
+
+h6, address {
+	color: white;
+}
+
+p {
+	text-indent: 1em;
+	line-height: 1.5;
+}
+h1 {
+	position: relative;
+}
+
+h2 {
+	color: #FFF;
+	max-width: 300px;
+	margin: 10px auto;
+	line-height: 1.5;
+}
+
+h3#titolAjuda {
+	color: #FFF;
+	text-align: right;
+	line-height: 2; 
+}
+
+nav {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	clear: both;
+}
+
+ul#menu li {
+	display: inline;
+}
+
+ul#menu li a {
+	background-color: black;
+	color: white;
+	padding: 10px 20px;
+	text-decoration: none;
+	font-size: 16pt;
+	border-radius: 8px;
+}
+
+ul#menu li a:hover {
+	background-color: orange;
+	color: #000;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+select, option {
+	text-align: center;
+}
+
+iframe#mapa {
+	border: solid 2px black;
+	border-radius: 15px;
+}
+
+#form1 {
+	position: relative;
+	table-layout: auto;
+}
+
+#mail {
+	color: white;
+}
+
+div#textAjuda {
+	border-radius: 25px;
+	position: absolute;
+	left: 60px;
+	background-color: #A0A0A0;
+	text-align: justify;
+	width: 500px;
+	padding: 10px 30px;
+}
+
+#noms {
+	font-size: 16pt;
+}
+
+#contacte {
+	font-family: Verdana;
+	font-size: 12pt;
+
+}
+
+.copy-left {
+ display: inline-block;
+ text-align: right;
+ margin: 0px;
+ -moz-transform: scaleX(-1);
+ -o-transform: scaleX(-1);
+ -webkit-transform: scaleX(-1);
+ transform: scaleX(-1);
+ filter: FlipH;
+ -ms-filter: "FlipH";
+ }
+
+#playAgain {
+	text-decoration: none;
+	color: green;
+	font-size: 16pt;
+}
+
+#playAgain:hover {
+	text-decoration: none;
+	color: red;
+	font-size: 20pt;
+	background-color: #000;
+	border-radius: 5px;
+}
